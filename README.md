@@ -22,7 +22,7 @@ With a meticulous security approach, I wrote and published an article on GPS Spo
 
 <p align="center">
 Created the AC Security Blog: <br/>
-<img src="https://imgur.com/a/KrFgUYy" height="80%" width="80%" alt="AC Security Blog"/>
+<img src="https://i.imgur.com/jtWcvyV.png" height="80%" width="80%" alt="AC Security Blog"/>
 <br />
 <br />
 Blog Post:  <br/>
