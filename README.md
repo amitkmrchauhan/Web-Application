@@ -26,15 +26,15 @@ Created the AC Security Blog: <br/>
 <br />
 <br />
 Blog Post:  <br/>
-<img src="https://imgur.com/a/YsqkJQE" height="80%" width="80%" alt="Blog Post"/>
+<img src="https://i.imgur.com/IoMZI9f.png" height="80%" width="80%" alt="Blog Post"/>
 <br />
 <br />
 Azure Front door to ensure secure and efficient delivery of Blog's content:  <br/>
-<img src="https://imgur.com/a/1wBWTQP" height="80%" width="80%" alt="Azure Front Door"/>
+<img src="https://i.imgur.com/nJsaPkv.png" height="80%" width="80%" alt="Azure Front Door"/>
 <br />
 <br />
 Web Application Firewall (WAF) Custom Rule: <br/>
-<img src="https://imgur.com/a/8IYez5k" height="80%" width="80%" alt="WAF Rule"/>
+<img src="https://i.imgur.com/JaCKcoR.png" height="80%" width="80%" alt="WAF Rule"/>
 </p>
 
 <!--
